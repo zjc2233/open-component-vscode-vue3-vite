@@ -1,0 +1,22 @@
+{
+  "name": "open-component-vscode-vue3-vite",
+  "version": "1.0.0",
+  "description": "vue3项目通过界面点击打开vscode中对应组件文件（vite）",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/zhao_juchang/open-component-vscode-vue3-vite.git"
+  },
+  "author": "zhaojuchang",
+  "dependencies": {
+    "@babel/generator": "^7.22.10",
+    "@babel/parser": "^7.22.11",
+    "@babel/traverse": "^7.22.11",
+    "@babel/types": "^7.22.11"
+  },
+  "license": "ISC"
+}
