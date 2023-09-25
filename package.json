@@ -1,6 +1,6 @@
 {
   "name": "open-component-vscode-vue3-vite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue3项目通过界面点击打开vscode中对应组件文件（vite）",
   "main": "index.js",
   "private": false,
