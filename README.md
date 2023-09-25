@@ -5,7 +5,7 @@ vue3项目通过vscode打开对应的组件文件，快速定位组件文件
 
 #### 安装教程
 ```
-npm install -D openComponent-vscode-vue3-vite
+npm install -D open-component-vscode-vue3-vite
 ```
 
 #### 使用说明

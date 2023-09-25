@@ -4,7 +4,7 @@ const generate = require('@babel/generator').default;
 const types = require('@babel/types');
 const os = require('os');
 
-export default function openVscode() {
+module.exports = function openVscode() {
   return {
     name: 'open-vscode',
     transform(originCode, originMap, ast) {
