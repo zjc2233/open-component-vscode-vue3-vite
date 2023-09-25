@@ -9,10 +9,10 @@ npm install -D open-component-vscode-vue3-vite
 ```
 
 #### 使用说明
-1.  在vite.config.js中配置openComponent-vscode-vue3-vite的plugin
+1.  在vite.config.js中配置open-component-vscode-vue3-vite的plugin
 ```
 // vite.config.js
-import openVscode from 'openComponent-vscode-vue3-vite';
+import openVscode from 'open-component-vscode-vue3-vite';
 
 
 export default defineApplicationConfig({
